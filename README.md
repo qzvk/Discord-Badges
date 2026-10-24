@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Discord Badge Archive
+#  ✦ Discord Badge Archive
 
 ### A modern visual catalog of Discord badges.
 
